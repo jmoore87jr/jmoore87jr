@@ -7,7 +7,7 @@ Soon: SQLite | Kubernetes
 
 🧠🤔 Optimization, Linear Programming, Regret Minimization, Monte Carlo, Machine Learning, Prediction, Data Engineering
 
-## Contact
+### Contact
 📫 jmoore87jr 📫 at 📫 gmail
 Twitter: @jm0ore87, @CrusherGpp
 
