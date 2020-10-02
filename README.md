@@ -5,7 +5,7 @@ Soon: SQLite | Kubernetes
 
 💻🔨 DFS ownership projections and tournament simulations 🏀🏈 
 
-🧠🤔 Optimization, Linear Programming, Regret Minimization, Monte Carlo, Machine Learning, Prediction, Data Engineering
+🧠🤔 Optimization, Linear Programming, Regret Minimization, Monte Carlo, Machine Learning, Prediction, Bots
 
 ### Contact
 📫 jmoore87jr 📫 at 📫 gmail \
