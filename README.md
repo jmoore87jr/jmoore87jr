@@ -1,13 +1,13 @@
 ### Hi there 👋
 What I'm using: Linux-Ubuntu20.04 | WSL2 | Windows Terminal | VSCode \
 Now: Python, SQL, Docker, AWS EC2 \
-Soon: SQLite, Kubernetes \
+Soon: SQLite, Kubernetes
 
 💻🔨 DFS ownership projections and tournament simulations 🏀🏈 
 
 🧠🤔 Optimization, Linear Programming, Regret Minimization, Monte Carlo, Machine Learning, Prediction, Data Engineering
 
-📫 jmoore87jr 📫 at 📫 gmail \
+📫 jmoore87jr 📫 at 📫 gmail
 
 Twitter: @jm0ore87, @CrusherGpp
 
