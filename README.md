@@ -1,11 +1,11 @@
 ### Hi there 👋
 What I'm using: Linux-Ubuntu20.04 | WSL2 | Windows Terminal | VSCode \
-Now: Python | SQL | Docker | AWS EC2 \
-Soon: SQLite | Kubernetes
+Now: Python | SQLite | Docker | AWS EC2 \
+Soon: Kubernetes
 
 💻🔨 DFS ownership projections and tournament simulations 🏀🏈 
 
-🧠🤔 Optimization, Linear Programming, Regret Minimization, Monte Carlo, Machine Learning, Prediction, Bots
+🧠🤔 Optimization, Linear Programming, Regret Minimization, Monte Carlo, Machine Learning, Prediction, Bots, Web Scraping
 
 ### Contact
 📫 jmoore87jr 📫 at 📫 gmail \
