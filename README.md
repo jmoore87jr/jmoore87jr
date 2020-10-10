@@ -1,7 +1,6 @@
 ### Hi there 👋
 What I'm using: Linux-Ubuntu20.04 | WSL2 | Windows Terminal | VSCode \
-Now: Python | SQLite | Docker | AWS EC2 \
-Soon: Kubernetes
+Skills: Python | SQL | Docker | AWS EC2 | Twitter API 
 
 💻🔨 DFS ownership projections and tournament simulations 🏀🏈 
 
