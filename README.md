@@ -1,8 +1,6 @@
 ### Hi there 👋
-What I'm using: Linux-Ubuntu20.04 | WSL2 | Windows Terminal | VSCode \
-Skills: Python | SQL | Docker | AWS EC2 | Twitter API 
-
-💻🔨 DFS ownership projections and tournament simulations 🏀🏈 
+Skills: Python | SQL | Docker | AWS EC2 | Twitter API \
+Using: Linux-Ubuntu20.04 | WSL2 | Windows Terminal | VSCode
 
 🧠🤔 Optimization, Linear Programming, Regret Minimization, Monte Carlo, Machine Learning, Prediction, Bots, Web Scraping
 
