@@ -1,6 +1,6 @@
 ### Hi there 👋
-Skills: Python | SQL | Docker | AWS EC2 | Twitter API \
-Using: Linux-Ubuntu20.04 | WSL2 | Windows Terminal | VSCode
+Skills: Python | Pandas | SQL | Docker | AWS | REST APIs \
+Using: Ubuntu | WSL2 | VSCode
 
 🧠🤔 Optimization, Linear Programming, Regret Minimization, Monte Carlo, Machine Learning, Prediction, Bots, Web Scraping
 
