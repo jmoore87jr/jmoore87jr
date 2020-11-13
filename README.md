@@ -1,7 +1,7 @@
 ### Hi there 👋
 Skills: Python | Pandas | SQL | Docker | AWS | REST APIs \
 
-🧠🤔 Optimization, Linear Programming, Regret Minimization, Monte Carlo, Machine Learning, Prediction, Bots, Web Scraping
+🧠🤔 Optimization, Linear programming, Regret minimization, Monte Carlo, Machine learning, Prediction, Bots, Web scraping, Data pipelines
 
 ### Contact
 📫 jmoore87jr 📫 at 📫 gmail \
