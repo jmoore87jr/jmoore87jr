@@ -1,6 +1,5 @@
 ### Hi there 👋
 Skills: Python | Pandas | SQL | Docker | AWS | REST APIs \
-Using: Ubuntu | WSL2 | VSCode
 
 🧠🤔 Optimization, Linear Programming, Regret Minimization, Monte Carlo, Machine Learning, Prediction, Bots, Web Scraping
 
