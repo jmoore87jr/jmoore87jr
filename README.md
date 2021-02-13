@@ -1,10 +1,11 @@
 ### Hi there 👋
-Skills: Python | Pandas | SQL | Docker | AWS | REST APIs \
 
-🧠🤔 Optimization, Linear programming, Regret minimization, Monte Carlo, Machine learning, Prediction, Bots, Web scraping, Data pipelines
+Python data ecosystem :panda_face: Forever learning
+
+Python | SQL | Unix | AWS | Docker | Airflow
 
 ### Contact
-📫 jmoore87jr 📫 at 📫 gmail \
+jmoore87jr 📫 gmail \
 Twitter: @jm0ore87, @CrusherGpp
 
 
