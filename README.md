@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Python data ecosystem :panda_face: Forever learning
+:panda_face: Forever learning :panda_face:
 
-Python | SQL | Unix | AWS | Docker | Airflow
+Python | SQL | Cloud | Containers | Automation
 
 ### Contact
 jmoore87jr 📫 gmail \
