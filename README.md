@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Data Engineer
+Data Engineer \
 Python | SQL | Cloud | Containers | Automation
 
-Former pro poker player
+Former pro poker player \
 Crypto enthusiast
 
 ### Contact
