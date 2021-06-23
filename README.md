@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-:panda_face: Forever learning :panda_face:
-
+Data Engineer
 Python | SQL | Cloud | Containers | Automation
+
+Former pro poker player
+Crypto enthusiast
 
 ### Contact
 jmoore87jr 📫 gmail \
-Twitter: @jm0ore87, @CrusherGpp
+Twitter: @johniykyk
 
 
 
