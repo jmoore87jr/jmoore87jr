@@ -3,7 +3,7 @@
 https://y.at/♠️❤️💎
 
 Data Engineer \
-Python | SQL | Cloud | Containers | Automation
+Python | SQL | Cloud | ETL/ELT | Automation
 
 Former pro poker player \
 Crypto enthusiast
