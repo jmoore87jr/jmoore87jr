@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://y.at/♠️❤️💎
+
 Data Engineer \
 Python | SQL | Cloud | Containers | Automation
 
@@ -8,7 +10,7 @@ Crypto enthusiast
 
 ### Contact
 jmoore87jr 📫 gmail \
-Twitter: @johniykyk
+
 
 
 
